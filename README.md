@@ -1,2 +1,3 @@
 # temperatura
-Micro-project konwersja temperatury Fahrenheit to Celsius
+Micro-project konwersja temperatury Fahrenheit to Celsius. 
+Python, funkcje, if/else
